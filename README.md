@@ -7,5 +7,4 @@ User Experience (UX): I focus on creating clear and pleasant interfaces that bri
 
 I am an active supporter of the open source idea and am always open to collaborations and projects. If you have interesting ideas or are looking for a partner to implement solutions, I will be happy to discuss the possibilities of cooperation.
 
-https://www.codewars.com/users/Svixdream/badges/large
 [![Codwears badge](https://www.codewars.com/users/Svixdream/badges/large)](https://www.codewars.com/users/Svixdream)
