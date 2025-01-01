@@ -6,5 +6,6 @@ CSS: I create stylish and responsive designs using modern CSS techniques such as
 User Experience (UX): I focus on creating clear and pleasant interfaces that bring value to users.
 
 I am an active supporter of the open source idea and am always open to collaborations and projects. If you have interesting ideas or are looking for a partner to implement solutions, I will be happy to discuss the possibilities of cooperation.
+May the Force be with you
 
 [![Codwears badge](https://www.codewars.com/users/Svixdream/badges/large)](https://www.codewars.com/users/Svixdream)
